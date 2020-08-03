@@ -1,0 +1,14 @@
+Help!
+
+git lepesek sajat modositasnal:
+git add .
+git commit -m
+git config
+git status
+felrakni: 
+git fetch
+git pull(eloszor!!)
+git push
+
+
+
